@@ -1,0 +1,92 @@
+[
+  {
+    "_id": "1",
+    "className": "Graphic Design Fundamentals",
+    "classImage": "https://cdn.dribbble.com/users/1494249/screenshots/15092043/graphic-design-fundamentals.jpg",
+    "instructorName": "John Smith",
+    "instructorEmail": "johnsmith@example.com",
+    "availableSeats": 10,
+    "price": 50
+  },
+  {
+    "_id": "2",
+    "className": "UI/UX Design Workshop",
+    "classImage": "https://img.freepik.com/free-vector/ux-ui-typographic-header-app-interface-improvement-user-interface-design-user-experience-development-modern-technology-concept-flat-vector-illustration_613284-1484.jpg?size=626&ext=jpg&ga=GA1.2.1798544489.1654967611&semt=ais",
+    "instructorName": "Jane Doe",
+    "instructorEmail": "janedoe@example.com",
+    "availableSeats": 15,
+    "price": 75
+  },
+  {
+    "_id": "3",
+    "className": "Design Masterclass",
+    "classImage": "https://img.freepik.com/free-psd/creativity-workshop-horizontal-banner_23-2148945060.jpg?size=626&ext=jpg&ga=GA1.1.1798544489.1654967611&semt=ais",
+    "instructorName": "Alex Johnson",
+    "instructorEmail": "alexjohnson@example.com",
+    "availableSeats": 8,
+    "price": 60
+  },
+  {
+    "_id": "4",
+    "className": "Graphic Design Fundamentals",
+    "classImage": "https://cdn.dribbble.com/users/1494249/screenshots/15092043/graphic-design-fundamentals.jpg",
+    "instructorName": "Emily Wilson",
+    "instructorEmail": "emilywilson@example.com",
+    "availableSeats": 12,
+    "price": 90
+  },
+  {
+    "_id": "5",
+    "className": "Graphic Design Fundamentals",
+    "classImage": "https://cdn.dribbble.com/users/1494249/screenshots/15092043/graphic-design-fundamentals.jpg",
+    "instructorName": "David Brown",
+    "instructorEmail": "davidbrown@example.com",
+    "availableSeats": 20,
+    "price": 70
+  },
+  {
+    "_id": "6",
+    "className": "Interior Design Essentials",
+    "classImage": "https://img.freepik.com/free-photo/design-studio-architect-creative-occupation-blueprint-office-concept_53876-16155.jpg?size=626&ext=jpg&ga=GA1.2.1798544489.1654967611&semt=ais",
+    "instructorName": "Olivia Davis",
+    "instructorEmail": "oliviadavis@example.com",
+    "availableSeats": 5,
+    "price": 40
+  },
+  {
+    "_id": "7",
+    "className": "Motion Graphics Course",
+    "classImage": "https://img.freepik.com/free-vector/motiongraphics-landing-page_23-2148881745.jpg?size=626&ext=jpg&ga=GA1.1.1798544489.1654967611&semt=ais",
+    "instructorName": "Michael Wilson",
+    "instructorEmail": "michaelwilson@example.com",
+    "availableSeats": 18,
+    "price": 80
+  },
+  {
+    "_id": "8",
+    "className": "Graphic Design Fundamentals",
+    "classImage": "https://cdn.dribbble.com/users/1494249/screenshots/15092043/graphic-design-fundamentals.jpg",
+    "instructorName": "Sophia Anderson",
+    "instructorEmail": "sophiaanderson@example.com",
+    "availableSeats": 9,
+    "price": 55
+  },
+  {
+    "_id": "9",
+    "className": "Graphic Design Fundamentals",
+    "classImage": "https://cdn.dribbble.com/users/1494249/screenshots/15092043/graphic-design-fundamentals.jpg",
+    "instructorName": "Daniel Miller",
+    "instructorEmail": "danielmiller@example.com",
+    "availableSeats": 14,
+    "price": 65
+  },
+  {
+    "_id": "10",
+    "className": "Graphic Design Fundamentals",
+    "classImage": "https://cdn.dribbble.com/users/1494249/screenshots/15092043/graphic-design-fundamentals.jpg",
+    "instructorName": "Mia Taylor",
+    "instructorEmail": "miataylor@example.com",
+    "availableSeats": 7,
+    "price": 45
+  }
+]

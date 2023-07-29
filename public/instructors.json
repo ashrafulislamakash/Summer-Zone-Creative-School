@@ -1,0 +1,111 @@
+[
+  {
+    "_id": "1",
+    "image": "https://img.freepik.com/free-photo/front-view-senior-man-with-long-beard_23-2149833677.jpg?size=626&ext=jpg&ga=GA1.1.1798544489.1654967611&semt=ais",
+    "name": "John Smith",
+    "email": "johnsmith@example.com",
+    "number_of_classes": 3,
+    "classes_taken": ["Graphic Design", "Photography", "Digital Illustration"]
+  },
+  {
+    "_id": "2",
+    "image": "https://img.freepik.com/premium-photo/painting-woman-with-braided-hair_1297-1934.jpg?size=626&ext=jpg&ga=GA1.1.1798544489.1654967611&semt=ais",
+    "name": "Sarah Johnson",
+    "email": "sarahjohnson@example.com",
+    "number_of_classes": 5,
+    "classes_taken": [
+      "Web Design",
+      "UI/UX Design",
+      "Motion Graphics",
+      "Typography",
+      "Digital Marketing"
+    ]
+  },
+  {
+    "_id": "3",
+    "image": "https://img.freepik.com/free-photo/serious-african-american-businessman_74855-1215.jpg?size=626&ext=jpg&ga=GA1.1.1798544489.1654967611&semt=ais",
+    "name": "Michael Davis",
+    "email": "michaeldavis@example.com",
+    "number_of_classes": 2,
+    "classes_taken": ["Logo Design", "Packaging Design"]
+  },
+  {
+    "_id": "4",
+    "image": "https://img.freepik.com/free-photo/young-woman-as-mona-lisa-la-gioconda-isolated-dark-green_155003-19188.jpg?size=626&ext=jpg&ga=GA1.1.1798544489.1654967611&semt=ais",
+    "name": "Emily Wilson",
+    "email": "emilywilson@example.com",
+    "number_of_classes": 4,
+    "classes_taken": [
+      "Fashion Design",
+      "Textile Design",
+      "Pattern Making",
+      "Garment Construction"
+    ]
+  },
+  {
+    "_id": "5",
+    "image": "https://img.freepik.com/free-photo/portrait-white-man-isolated_53876-40306.jpg?size=626&ext=jpg&ga=GA1.1.1798544489.1654967611&semt=ais",
+    "name": "David Lee",
+    "email": "davidlee@example.com",
+    "number_of_classes": 3,
+    "classes_taken": ["Interior Design", "Space Planning", "Color Theory"]
+  },
+  {
+    "_id": "6",
+    "image": "https://img.freepik.com/free-photo/woman-s-portrait_144627-39542.jpg?size=626&ext=jpg&ga=GA1.2.1798544489.1654967611&semt=ais",
+    "name": "Jennifer Brown",
+    "email": "jenniferbrown@example.com",
+    "number_of_classes": 6,
+    "classes_taken": [
+      "Digital Art",
+      "Concept Art",
+      "Character Design",
+      "Storyboarding",
+      "3D Modeling",
+      "Animation"
+    ]
+  },
+  {
+    "_id": "7",
+    "image": "https://img.freepik.com/free-photo/medium-shot-old-man-posing-indoors_23-2149883534.jpg?size=626&ext=jpg&ga=GA1.2.1798544489.1654967611&semt=ais",
+    "name": "Christopher Wilson",
+    "email": "christopherwilson@example.com",
+    "number_of_classes": 4,
+    "classes_taken": [
+      "Industrial Design",
+      "Product Development",
+      "Prototyping",
+      "Design Thinking"
+    ]
+  },
+  {
+    "_id": "8",
+    "image": "https://img.freepik.com/free-photo/young-woman-as-mona-lisa-la-gioconda-isolated-dark-green_155003-19190.jpg?size=626&ext=jpg&ga=GA1.2.1798544489.1654967611&semt=ais",
+    "name": "Olivia Adams",
+    "email": "oliviaadams@example.com",
+    "number_of_classes": 3,
+    "classes_taken": ["Graphic Design", "Print Design", "Publication Design"]
+  },
+  {
+    "_id": "9",
+    "image": "https://img.freepik.com/free-photo/close-up-businessman-with-tie_1098-2867.jpg?size=626&ext=jpg&ga=GA1.1.1798544489.1654967611&semt=ais",
+    "name": "Daniel Roberts",
+    "email": "danielroberts@example.com",
+    "number_of_classes": 5,
+    "classes_taken": [
+      "Photography",
+      "Photo Editing",
+      "Portrait Photography",
+      "Landscape Photography",
+      "Studio Lighting"
+    ]
+  },
+  {
+    "_id": "10",
+    "image": "https://img.freepik.com/premium-photo/portrait-young-glamourous-woman-old-hollywood-style_272335-620.jpg?size=626&ext=jpg&ga=GA1.1.1798544489.1654967611&semt=ais",
+    "name": "Sophia Turner",
+    "email": "sophiaturner@example.com",
+    "number_of_classes": 2,
+    "classes_taken": ["Motion Design", "Video Editing"]
+  }
+]
